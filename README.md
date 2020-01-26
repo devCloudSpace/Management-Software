@@ -17,6 +17,8 @@
 #### Note:
 - This repo hosts the trial/sample version of the software to test out the basic features. Actual software would be built completely based on the custom requirements of the client.
 - Future GUI releases would be more user-friendly.
+- The data is stored in plain readable text form just for demonstration purpose. It can also be stored in binary form or encrypted form.
+
 #### Terms and Conditions:
 - This software is provided on "as-is" basis.
 - This software is not to be used in any way to illegally modify software.
