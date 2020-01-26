@@ -12,6 +12,16 @@
 
 - Sample files with dummy text are already present.
 
+#### Features:
+- Information management of employees, staff, projects done etc..
+- All common operations: read, write, update and delete.
+- Daily records of attendance and also leave information.
+- Backup create, read and restore.
+- Changing of UI colors.
+- Password protected environment.
+- Creation of access logs of both valid and invalid credentials entered with date and time.
+- CLI: faster interface.
+
 <hr>
 
 #### Note:
