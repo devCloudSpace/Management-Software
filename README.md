@@ -40,4 +40,4 @@
 <hr>
 
 #### For inquiries: j91branson@gmail.com
-### © BSi, Gorilla Syndicate LLC. All rights reserved.
+#### © BSi, Gorilla Syndicate LLC. All rights reserved.
