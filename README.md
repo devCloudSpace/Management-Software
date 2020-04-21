@@ -22,6 +22,15 @@
 - Creation of access logs of both valid and invalid credentials entered with date and time.
 - CLI: faster interface.
 
+#### Some other feature examples (just some ideas):
+- Sales made over a time span.
+- Total working days of an employee.
+- Projects done over a time span.
+- Financial profits calculation.
+- Future profits predictions.
+- Presentation of sorted data.
+- Plus many more.
+
 <hr>
 
 #### Note:
