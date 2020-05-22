@@ -1,4 +1,7 @@
 # Management-Software
+
+## Update: GUI version is now available!
+
 #### How To's
 - Directly download the zip from [here](https://github.com/gorillasyndicate/Management-Software/archive/master.zip).
 - Run "ems.exe" (the one with the GS logo).
